@@ -6,7 +6,7 @@
 
 
 ## <b>Como baixar o código na sua máquina:</b>
-- Para baixar o  código diretamente <b>[CLIQUE AQUI](https://github.com/Lorinsi/ordVetor/archive/refs/heads/main.zip)</b>.
+- Click no botao AQUI e depois em baixar <b>[AQUI](https://github.com/MatheusSilva3/contando-bit-a-bit-bitwise-/blob/main/Arquivo.zip)</b>.
 
 ## <b>Como compilar e executar o código:</b>
 - Neste exemplo usaremos o <b>GCC</b> para compilar o código então se você não tiver o <b>GCC</b> instalado na sua máquina a compilação não poderá ser feita.
